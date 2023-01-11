@@ -16,3 +16,22 @@ GitHub это удобный удаленный репозиторий, помо
 
 [dotnet new console](dotnetnewconsole)
 
+## 2. Нарисовать блок-схему алгоритма
+
+Для выполнения этой части задания я воспользовался расширением для VSCode
+
+[Draw.io Integration](Draw.ioIntegration)
+
+![Draw.io Integration](DrawIoIntegrationExtension.png)
+
+Это позволяет создать файл с расширением
+
+[.drawio.png](.drawio.png)
+
+который языком разметки Markdown будет восприниматься как изображение, но появляется возможность вносить в блок-схему изменения.
+
+## Блок-схема
+
+![Блок-схема](tool.png)
+
+
